@@ -1,7 +1,7 @@
 # Reflective dll injector
 
 A reflective DLL injector written in C++/Assembly that loads a DLL into a 
-remote process entirely from memory — no disk writes, no LoadLibrary calls.
+remote process entirely from memory, without disk writes or LoadLibrary calls.
 <br>
 
 ## How It Works
